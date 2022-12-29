@@ -356,7 +356,7 @@ section .title::after{
 
 /* teams section styling */
 .portfolio .title::after{
-    content: "My Literary Works";
+    content: "my literary works";
 }
 .portfolio .carousel .card{
     background: #222;
